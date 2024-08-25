@@ -3,7 +3,7 @@ import ContactFooter from "../components/ContactFooter"
 const Home = () => {
     return (
         <>
-            <div className=" relative  h-[400px] sm:h-[500px] lg:h-[600px] mb-12">
+            <div className=" relative max-h-[700px] mb-12 overflow-hidden">
                 <img className="h-full w-full bg-auto bg-no-repeat bg-right" src="/src/assets/Home-hero.jpg" alt="Homepage image" />
                 <div className="absolute bottom-8 left-10 p-4 max-w-[50%] sm:max-w-[40%] text-white font-playfair font-bold text-xl sm:text-2xl lg:text-4xl">
                     Embrace the Beauty of Nature, Crafted by Gary’s Florists in Southampton
