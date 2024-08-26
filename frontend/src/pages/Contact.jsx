@@ -3,7 +3,7 @@ const Contact = () => {
     return (
         <>
             <div className=" relative max-h-[700px] mb-24 overflow-hidden">
-                <img className="h-full w-full bg-cover opacity-80" src="/src/assets/contact-hero.jpg" alt="contact page image showing flowers" />
+                <img className="h-full w-full bg-cover opacity-80" src="/assets/contact-hero.jpg" alt="contact page image showing flowers" />
                 <div className="absolute bottom-8 left-10 p-4 max-w-[50%] sm:max-w-[40%]">
                     <p className="font-playfair font-bold text-xl sm:text-2xl lg:text-4xl">Contact Garry’s Florists</p>
                 </div>

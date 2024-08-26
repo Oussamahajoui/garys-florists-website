@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <>
             <div className=" relative max-h-[700px] mb-12 overflow-hidden">
-                <img className="h-full w-full bg-auto bg-no-repeat bg-right" src="/src/assets/Home-hero.jpg" alt="Homepage image" />
+                <img className="h-full w-full bg-auto bg-no-repeat bg-right" src="/assets/Home-hero.jpg" alt="Homepage image" />
                 <div className="absolute bottom-8 left-10 p-4 max-w-[50%] sm:max-w-[40%] text-white font-playfair font-bold text-xl sm:text-2xl lg:text-4xl">
                     Embrace the Beauty of Nature, Crafted by Gary’s Florists in Southampton
                 </div>
@@ -18,7 +18,7 @@ const Home = () => {
                     </div>
 
                     <div className="flex-shrink-0 flex items-center justify-center mt-8">
-                        <img className="max-h-[270px]" src="/src/assets/Home-img1.jpg" alt="Roses" />
+                        <img className="max-h-[270px]" src="/assets/Home-img1.jpg" alt="Roses" />
                     </div>
                 </section>
 

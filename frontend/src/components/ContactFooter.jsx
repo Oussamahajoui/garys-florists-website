@@ -1,7 +1,7 @@
 
 const ContactFooter = () => {
     return (
-        <div className="bg-[url('/src/assets/form-bg.jpg')] bg-cover bg-center h-[797px] flex items-center">
+        <div className="bg-[url('/assets/form-bg.jpg')] bg-cover bg-center h-[797px] flex items-center">
             <div className="flex-grow flex justify-end px-4 mr-4">
                 <div className="w-[820px] h-auto bg-white border border-black border-solid">
                     <div>

@@ -4,9 +4,9 @@ const About = () => {
     return (
         <>
             <div className=" relative max-h-[700px] mb-24 overflow-hidden">
-                <img className="h-full w-full bg-cover opacity-80" src="/src/assets/About-hero.jpg" alt="About hero image" />
+                <img className="h-full w-full bg-cover opacity-80" src="/assets/About-hero.jpg" alt="About hero image" />
                 <div className="absolute bottom-8 left-10 p-4 max-w-[50%] sm:max-w-[40%]">
-                    <img className="max-h-[127px] mb-2" src="/src/assets/Garryimg.png" alt="" />
+                    <img className="max-h-[127px] mb-2" src="/assets/Garryimg.png" alt="Garry picture" />
                     <p className="font-playfair font-bold text-xl sm:text-2xl lg:text-4xl">About Garry’s Florists</p>
                 </div>
             </div>
@@ -28,7 +28,7 @@ const About = () => {
 
                     </div>
                     <div className="flex-shrink-0 mr-8">
-                        <img className="max-h-[700px]" src="/src/assets/About-img.jpg" alt="about page image of roses bouquet held by a bride" />
+                        <img className="max-h-[700px]" src="/assets/About-img.jpg" alt="about page image of roses bouquet held by a bride" />
                     </div>
                 </div>
             </section>
