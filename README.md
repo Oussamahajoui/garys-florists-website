@@ -55,20 +55,20 @@ Here are some areas for potential improvement:
             <img src="https://github.com/user-attachments/assets/873b8e67-82e6-4fe7-a76e-b4f25a97e488" width="100%"  alt="100Devs Blog"/>
         </a>
     </td>
-<!--     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game"> Matching Card Game</a>
-      <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Matching Card Game"/>
-        </a>
-    </td>
-    <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Portfolio</a>
+<td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/Oussamahajoui/mortgage-repayment-calculator/">Mortgage Repayment Calculator</a>
         <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021/">
-          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://github.com/Oussamahajoui/mortgage-repayment-calculator">
+          <img src="https://github.com/user-attachments/assets/526aef96-bc83-4612-a777-a8e92e8fbdb3" width="100%" alt="Mortgage Repayment Calculator"/>
         </a>
-    </td>
-  </tr> -->
+    </td> 
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/Oussamahajoui/Tips-splitting-app">Tips Splitting App</a>
+        <br />
+        <a target="_blank" href="https://github.com/Oussamahajoui/Tips-splitting-app">
+          <img src="https://github.com/user-attachments/assets/ee2060db-72b9-46c0-b352-f480483f8284" width="100%" alt="Tips Splitting App"/>
+        </a>
+    </td> 
+  </tr>
 </table>
 
